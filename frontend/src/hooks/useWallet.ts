@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useCallback } from 'react';
 import Web3 from 'web3';
 import detectEthereumProvider from '@metamask/detect-provider';
