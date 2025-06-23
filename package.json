@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "@react-three/drei": "^10.3.0",
+    "@react-three/fiber": "^9.1.2",
+    "ipfs-http-client": "^60.0.1",
+    "three": "^0.177.0",
+    "web3": "^4.16.0"
+  }
+}
